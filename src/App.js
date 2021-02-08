@@ -31,6 +31,7 @@ function App() {
   return (
     <div className="App">
       <header>
+        <h1>React Chat App</h1>
         <SignOut />
       </header>
 
